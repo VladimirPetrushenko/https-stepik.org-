@@ -1,0 +1,10 @@
+D:\обучение\Inheritance.MapObjects\bin\Debug\Inheritance.MapObjects.exe.config
+D:\обучение\Inheritance.MapObjects\bin\Debug\Inheritance.MapObjects.exe
+D:\обучение\Inheritance.MapObjects\bin\Debug\Inheritance.MapObjects.pdb
+D:\обучение\Inheritance.MapObjects\bin\Debug\nunit.framework.dll
+D:\обучение\Inheritance.MapObjects\bin\Debug\nunitlite.dll
+D:\обучение\Inheritance.MapObjects\obj\Debug\Inheritance.MapObjects.csprojAssemblyReference.cache
+D:\обучение\Inheritance.MapObjects\obj\Debug\Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+D:\обучение\Inheritance.MapObjects\obj\Debug\Inheritance.MapObjects.csproj.CopyComplete
+D:\обучение\Inheritance.MapObjects\obj\Debug\Inheritance.MapObjects.exe
+D:\обучение\Inheritance.MapObjects\obj\Debug\Inheritance.MapObjects.pdb
