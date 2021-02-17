@@ -1,0 +1,10 @@
+D:\обучение\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe.config
+D:\обучение\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe
+D:\обучение\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.pdb
+D:\обучение\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.dll
+D:\обучение\Incapsulation.Weights.csproj\bin\Debug\nunitlite.dll
+D:\обучение\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csprojAssemblyReference.cache
+D:\обучение\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+D:\обучение\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+D:\обучение\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.exe
+D:\обучение\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.pdb
