@@ -16,7 +16,9 @@ namespace Digger
 
         public bool DeadInConflict(ICreature conflictedObject)
         {
-            return conflictedObject.GetType() == typeof(Player);
+            Player player = new Player();
+            Monster monster = new Monster();
+            return conflictedObject.GetType() == player.GetType() || conflictedObject.GetType() == monster.GetType();
         }
 
         public int GetDrawingPriority()
@@ -70,7 +72,7 @@ namespace Digger
 
         public bool DeadInConflict(ICreature conflictedObject)
         {
-            return conflictedObject.GetType() == typeof(Sack);
+            return conflictedObject.GetType() == typeof(Monster) || conflictedObject.GetType() == typeof(Sack);
         }
 
         public int GetDrawingPriority()
@@ -81,6 +83,65 @@ namespace Digger
         public string GetImageFileName()
         {
             return "Digger.png";
+        }
+    }
+
+    public class Monster : ICreature
+    {
+        public CreatureCommand Act(int x, int y)
+        {
+            var (playerX, playerY) = FindPlayer();
+            if (playerX == -1)
+            {
+                return new CreatureCommand { DeltaX = 0, DeltaY = 0, TransformTo = new Monster() };
+            }
+            var (x0, y0) = (0, 0);
+            if (playerX - x != 0)
+            {
+                if (!CheckForMonstr(x - 1, y))
+                    (x0, y0) = (-1, 0);
+                else if (!CheckForMonstr(x + 1, y))
+                    (x0, y0) = (1, 0);
+            }
+            else if (!CheckForMonstr(x, y - 1))
+                (x0, y0) = (0, -1);
+            else if (!CheckForMonstr(x, y + 1))
+                (x0, y0) = (0, 1);
+            return new CreatureCommand { DeltaX = x0, DeltaY = y0, TransformTo = new Monster() };
+        }
+
+        public static bool CheckForMonstr(int x, int y)
+        {
+            if (y <= Game.MapHeight && y >= 0 && x < Game.MapWidth - 1 && x >= 0)
+                return (Game.Map[x, y] != null)
+                     && (Game.Map[x, y].GetType() == typeof(Sack)
+                     || Game.Map[x, y].GetType() == typeof(Monster)
+                     || Game.Map[x, y].GetType() == typeof(Terrain));
+            return true;
+        }
+
+        public static (int, int) FindPlayer()
+        {
+            for (int i = 0; i < Game.MapWidth; i++)
+                for (int j = 0; j < Game.MapHeight; j++)
+                    if (Game.Map[i, j]?.GetType() == typeof(Player))
+                        return (i, j);
+            return (-1, -1);
+        }
+
+        public bool DeadInConflict(ICreature conflictedObject)
+        {
+            return conflictedObject.GetType() == typeof(Sack) || conflictedObject.GetType() == typeof(Monster);
+        }
+
+        public int GetDrawingPriority()
+        {
+            return 1;
+        }
+
+        public string GetImageFileName()
+        {
+            return "Monster.png";
         }
     }
 
@@ -95,7 +156,7 @@ namespace Digger
         {
             if (conflictedObject.GetType() == typeof(Player))
                 Game.Scores += 10;
-            return conflictedObject.GetType() == typeof(Player);
+            return conflictedObject.GetType() == typeof(Player) || conflictedObject.GetType() == typeof(Monster);
         }
 
         public int GetDrawingPriority()
@@ -119,7 +180,7 @@ namespace Digger
                 Type map = Game.Map[x, y + 1]?.GetType();
                 if (map == null)
                     return new CreatureCommand { DeltaX = 0, DeltaY = 1, TransformTo = new Sack { speed = speed + 1 } };
-                else if (speed >= 1 && (map == typeof(Player)))
+                else if (speed >= 1 && (map == typeof(Player) || map == typeof(Monster)))
                     return new CreatureCommand { DeltaX = 0, DeltaY = 1, TransformTo = new Sack { speed = speed + 1 } };
                 else if (speed > 1)
                     return new CreatureCommand { DeltaX = 0, DeltaY = 0, TransformTo = new Gold() };
