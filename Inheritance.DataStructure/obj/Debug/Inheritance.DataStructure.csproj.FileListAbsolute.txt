@@ -1,0 +1,10 @@
+D:\обучение\Inheritance.DataStructure.csproj\bin\Debug\Inheritance.DataStructure.exe.config
+D:\обучение\Inheritance.DataStructure.csproj\bin\Debug\Inheritance.DataStructure.exe
+D:\обучение\Inheritance.DataStructure.csproj\bin\Debug\Inheritance.DataStructure.pdb
+D:\обучение\Inheritance.DataStructure.csproj\bin\Debug\nunit.framework.dll
+D:\обучение\Inheritance.DataStructure.csproj\bin\Debug\nunitlite.dll
+D:\обучение\Inheritance.DataStructure.csproj\obj\Debug\Inheritance.DataStructure.csprojAssemblyReference.cache
+D:\обучение\Inheritance.DataStructure.csproj\obj\Debug\Inheritance.DataStructure.csproj.CoreCompileInputs.cache
+D:\обучение\Inheritance.DataStructure.csproj\obj\Debug\Inheritance.DataStructure.csproj.CopyComplete
+D:\обучение\Inheritance.DataStructure.csproj\obj\Debug\Inheritance.DataStructure.exe
+D:\обучение\Inheritance.DataStructure.csproj\obj\Debug\Inheritance.DataStructure.pdb
