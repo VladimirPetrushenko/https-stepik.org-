@@ -1,1 +1,1 @@
-https-stepik.org-
+completed tasks from the site https-stepik.org-
