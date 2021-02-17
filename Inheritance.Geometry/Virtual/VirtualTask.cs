@@ -16,6 +16,15 @@ namespace Inheritance.Geometry.Virtual
         public abstract bool ContainsPoint(Vector3 point);
 
         public abstract RectangularCuboid GetBoundingBox();
+        public abstract void Accept(IVisitor visitor);
+    }
+
+    public interface IVisitor
+    {
+        void Visit(Ball ball);
+        void Visit(RectangularCuboid cuboid);
+        void Visit(Cylinder cylinder);
+        void Visit(CompoundBody body);
     }
 
     public class Ball : Body
@@ -37,6 +46,11 @@ namespace Inheritance.Geometry.Virtual
         public override RectangularCuboid GetBoundingBox()
         {
             return new RectangularCuboid(Position, Radius * 2, Radius * 2, Radius * 2);
+        }
+
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
         }
     }
 
@@ -71,6 +85,11 @@ namespace Inheritance.Geometry.Virtual
         {
             return new RectangularCuboid(Position, SizeX, SizeY, SizeZ);
         }
+
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
+        }
     }
 
     public class Cylinder : Body
@@ -99,6 +118,11 @@ namespace Inheritance.Geometry.Virtual
         public override RectangularCuboid GetBoundingBox()
         {
             return new RectangularCuboid(Position, Radius * 2, Radius * 2, SizeZ);
+        }
+
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
         }
     }
 
@@ -130,6 +154,11 @@ namespace Inheritance.Geometry.Virtual
             Vector3 size = max - min;
             return new RectangularCuboid(posit, size.X, size.Y, size.Z);
         }
+
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
+        }
     }
     public class vector
     {
@@ -154,6 +183,56 @@ namespace Inheritance.Geometry.Virtual
             return new Vector3(vector.X > 0 ? maxPointObjectB.X : a.X,
                               vector.Y > 0 ? maxPointObjectB.Y : a.Y,
                               vector.Z > 0 ? maxPointObjectB.Z : a.Z);
+        }
+    }
+    public class DimensionsVisitor : IVisitor
+    {
+        public (double, double) Dimensions { get; private set; }
+        public void Visit(Ball ball)
+        {
+            Dimensions = (ball.Radius * 2, ball.Radius * 2);
+        }
+
+        public void Visit(RectangularCuboid cuboid)
+        {
+            Dimensions = (cuboid.SizeX, cuboid.SizeZ);
+        }
+
+        public void Visit(Cylinder cylinder)
+        {
+            Dimensions = (cylinder.Radius * 2, cylinder.SizeZ);
+        }
+
+        public void Visit(CompoundBody body)
+        {
+            Dimensions = (body.GetBoundingBox().SizeX, body.GetBoundingBox().SizeZ);
+        }
+    }
+
+    public class SurfaceAreaVisitor : IVisitor
+    {
+        public double SurfaceArea { get; private set; }
+        public void Visit(Ball ball)
+        {
+            SurfaceArea = 4.0 * Math.PI * ball.Radius * ball.Radius;
+        }
+
+        public void Visit(RectangularCuboid cuboid)
+        {
+            SurfaceArea = 2.0 * (cuboid.SizeZ * cuboid.SizeY + cuboid.SizeX * cuboid.SizeY + cuboid.SizeX * cuboid.SizeZ);
+        }
+
+        public void Visit(Cylinder cylinder)
+        {
+            SurfaceArea = 2.0 * Math.PI * cylinder.SizeZ * cylinder.Radius + 2.0 * Math.PI * cylinder.Radius * cylinder.Radius;
+        }
+
+        public void Visit(CompoundBody body)
+        {
+            List<Body> parts = new List<Body>();
+            foreach (var b in body.Parts)
+                b.Accept(new SurfaceAreaVisitor());
+
         }
     }
 }
