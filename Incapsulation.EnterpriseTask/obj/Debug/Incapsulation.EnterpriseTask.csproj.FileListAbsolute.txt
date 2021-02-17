@@ -1,0 +1,9 @@
+D:\обучение\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll.config
+D:\обучение\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll
+D:\обучение\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.pdb
+D:\обучение\Incapsulation.EnterpriseTask.csproj\bin\Debug\nunit.framework.dll
+D:\обучение\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csprojAssemblyReference.cache
+D:\обучение\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CoreCompileInputs.cache
+D:\обучение\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CopyComplete
+D:\обучение\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.dll
+D:\обучение\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.pdb
