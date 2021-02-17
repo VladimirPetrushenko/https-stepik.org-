@@ -1,0 +1,11 @@
+D:\обучение\Incapsulation.Failures.csproj\bin\Debug\ReportMaker.cs
+D:\обучение\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe.config
+D:\обучение\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe
+D:\обучение\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.pdb
+D:\обучение\Incapsulation.Failures.csproj\bin\Debug\nunit.framework.dll
+D:\обучение\Incapsulation.Failures.csproj\bin\Debug\nunitlite.dll
+D:\обучение\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+D:\обучение\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+D:\обучение\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+D:\обучение\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.exe
+D:\обучение\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.pdb
