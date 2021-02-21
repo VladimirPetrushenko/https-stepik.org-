@@ -9,8 +9,8 @@ namespace MyPhotoshop
 		public static void Main (string[] args)
 		{
 			var window=new MainWindow();
-			window.AddFilter (new ShadeOfGradeFilter());
 			window.AddFilter(new LighteningFilter());
+			window.AddFilter (new ShadeOfGradeFilter());
 			Application.Run (window);
 		}
 	}

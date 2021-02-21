@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MyPhotoshop
 {
-    class GrayscaleParameters : IParameters
+    public class GrayscaleParameters : IParameters
     {
         public double Coefficient { get; set; }
         public ParameterInfo[] GetDesсription()
