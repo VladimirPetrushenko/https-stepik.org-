@@ -1,0 +1,7 @@
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\bin\Debug\DragonFractal.exe.config
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\bin\Debug\DragonFractal.exe
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\bin\Debug\DragonFractal.pdb
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\obj\Debug\DragonFractal.exe
+D:\Learning\CSharp\Ulearn\cikly\DragonFractal.csproj\obj\Debug\DragonFractal.pdb

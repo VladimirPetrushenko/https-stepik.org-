@@ -1,0 +1,13 @@
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\bin\Debug\HarryPotterText.txt
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe.config
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\bin\Debug\TextAnalysis.exe
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\bin\Debug\TextAnalysis.pdb
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\bin\Debug\nunit.framework.dll
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\bin\Debug\nunitlite.dll
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.Properties.Resources.resources
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CopyComplete
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.exe
+D:\Learning\CSharp\Ulearn\collection,string,file\TextAnalysis.csproj\obj\Debug\TextAnalysis.pdb

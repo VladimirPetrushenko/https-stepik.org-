@@ -1,0 +1,11 @@
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\bin\Debug\names.txt
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\bin\Debug\Names.exe.config
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\bin\Debug\Names.exe
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\bin\Debug\Names.pdb
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\bin\Debug\ZedGraph.dll
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\bin\Debug\ZedGraph.xml
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\obj\Debug\Names.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\obj\Debug\Names.exe
+D:\Learning\CSharp\Ulearn\mass\Names.csproj\obj\Debug\Names.pdb

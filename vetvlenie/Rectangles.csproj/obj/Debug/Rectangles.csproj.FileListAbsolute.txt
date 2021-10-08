@@ -1,0 +1,9 @@
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\bin\Debug\Rectangles.exe.config
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\bin\Debug\Rectangles.exe
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\bin\Debug\Rectangles.pdb
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\bin\Debug\TestingRoom.dll
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\obj\Debug\Rectangles.csproj.CopyComplete
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\obj\Debug\Rectangles.exe
+D:\Learning\CSharp\Ulearn\vetvlenie\Rectangles.csproj\obj\Debug\Rectangles.pdb

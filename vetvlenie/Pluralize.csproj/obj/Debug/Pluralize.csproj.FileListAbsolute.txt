@@ -1,0 +1,8 @@
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\bin\Debug\rubles.txt
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\bin\Debug\Pluralize.exe.config
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\bin\Debug\Pluralize.exe
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\bin\Debug\Pluralize.pdb
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\obj\Debug\Pluralize.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\obj\Debug\Pluralize.exe
+D:\Learning\CSharp\Ulearn\vetvlenie\Pluralize.csproj\obj\Debug\Pluralize.pdb

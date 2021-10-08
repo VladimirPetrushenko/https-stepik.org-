@@ -1,0 +1,16 @@
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\IsCorrectMove.exe
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\IsCorrectMove.deps.json
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\IsCorrectMove.runtimeconfig.json
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\IsCorrectMove.runtimeconfig.dev.json
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\IsCorrectMove.dll
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\ref\IsCorrectMove.dll
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\bin\Debug\net5.0\IsCorrectMove.pdb
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.AssemblyInfoInputs.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.AssemblyInfo.cs
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.dll
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\ref\IsCorrectMove.dll
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.pdb
+D:\Learning\CSharp\Ulearn\vetvlenie\IsCorrectMove\IsCorrectMove\obj\Debug\net5.0\IsCorrectMove.genruntimeconfig.cache
