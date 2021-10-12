@@ -1,0 +1,8 @@
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\bin\Debug\eurobot.bmp
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\bin\Debug\Recognizer.exe.config
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\bin\Debug\Recognizer.exe
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\bin\Debug\Recognizer.pdb
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\obj\Debug\Image.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\obj\Debug\Image.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\obj\Debug\Recognizer.exe
+D:\Learning\CSharp\Ulearn\algorithm\Image.csproj\obj\Debug\Recognizer.pdb

@@ -1,0 +1,12 @@
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\bin\Debug\TableParser.exe.config
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\bin\Debug\TableParser.exe
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\bin\Debug\TableParser.pdb
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\bin\Debug\nunit.framework.dll
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\table-parser.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\TableParser.ParserMainForm.resources
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\TableParser.Properties.Resources.resources
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\table-parser.csproj.GenerateResource.cache
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\table-parser.csproj.CopyComplete
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\TableParser.exe
+D:\Learning\CSharp\Ulearn\testing\table-parser.csproj\obj\Debug\TableParser.pdb

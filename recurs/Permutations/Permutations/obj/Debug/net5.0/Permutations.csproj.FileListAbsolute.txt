@@ -1,0 +1,16 @@
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\Permutations.exe
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\Permutations.deps.json
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\Permutations.runtimeconfig.json
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\Permutations.runtimeconfig.dev.json
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\Permutations.dll
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\ref\Permutations.dll
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\bin\Debug\net5.0\Permutations.pdb
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.AssemblyInfoInputs.cache
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.AssemblyInfo.cs
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.dll
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\ref\Permutations.dll
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.pdb
+D:\Learning\CSharp\Ulearn\recurs\Permutations\Permutations\obj\Debug\net5.0\Permutations.genruntimeconfig.cache
